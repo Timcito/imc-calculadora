@@ -24,10 +24,15 @@ Este proyecto es una **calculadora de IMC** (Índice de Masa Corporal) desarroll
 
 ## 📦 Estructura del proyecto
 /imc-calculadora
+
 │
+
 ├── index.html # Página principal con la calculadora
+
 ├── style.css # Estilos visuales
+
 └── script.js # Lógica para el cálculo del IMC
+
 
 
 ---
